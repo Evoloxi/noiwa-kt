@@ -1,0 +1,101 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.gun.fire": {
+			"animation_length": 0.45833,
+			"override_previous_animation": true,
+			"bones": {
+				"model": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.0417": {
+							"vector": [1.5, 0, 2.5],
+							"easing": "easeInBack"
+						},
+						"0.125": {
+							"vector": [0.65, 0, -2.5],
+							"easing": "easeInOutCubic"
+						},
+						"0.1667": {
+							"vector": [0, 0, 0],
+							"easing": "easeOutCirc"
+						}
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.gun.autofire": {
+			"loop": true,
+			"animation_length": 0.125,
+			"bones": {
+				"model": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 2.5]
+						},
+						"0.125": {
+							"vector": [1, 0, 0],
+							"easing": "easeInOutBounce",
+							"easingArgs": [0.5]
+						}
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.rifle.fire": {
+			"animation_length": 0.08333,
+			"override_previous_animation": true,
+			"bones": {
+				"model": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.0417": {
+							"vector": [1.5, 0, 2.5],
+							"easing": "easeInBack",
+							"easingArgs": [3]
+						},
+						"0.0833": {
+							"vector": [0, 0, 0],
+							"easing": "easeInOutCirc"
+						}
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		},
+		"animation.rifle.autofire": {
+			"loop": true,
+			"animation_length": 0.125,
+			"bones": {
+				"model": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 2.5]
+						},
+						"0.125": {
+							"vector": [1, 0, 0],
+							"easing": "easeInOutBounce",
+							"easingArgs": [0.5]
+						}
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

@@ -1,0 +1,198 @@
+{
+	"elixir.hit": {
+		"sounds": [
+			"noiwa:entity/elixir_hit"
+		]
+	},
+	"coin.small": {
+		"sounds": [
+			"noiwa:coin/small"
+		]
+	},
+	"coin.big": {
+		"sounds": [
+			"noiwa:coin/big"
+		]
+	},
+	"player.kill": {
+		"sounds": [
+			"noiwa:player/kill"
+		]
+	},
+	"player.respawn": {
+		"sounds": [
+			"noiwa:player/respawn"
+		]
+	},
+	"player.death": {
+		"sounds": [
+			"noiwa:player/death"
+		]
+	},
+	"player.countdown": {
+		"sounds": [
+			"noiwa:player/countdown"
+		]
+	},
+	"spiketrap.in": {
+		"sounds": [
+			"noiwa:spike_trap/in"
+		]
+	},
+	"spiketrap.out": {
+		"sounds": [
+			"noiwa:spike_trap/out"
+		]
+	},
+	"springtrap.boing.1": {
+		"sounds": [
+			"noiwa:spring_trap/boing_1"
+		]
+	},
+	"springtrap.boing.2": {
+		"sounds": [
+			"noiwa:spring_trap/boing_2"
+		]
+	},
+	"springtrap.boing.3": {
+		"sounds": [
+			"noiwa:spring_trap/boing_3"
+		]
+	},
+	"springtrap.boing.4": {
+		"sounds": [
+			"noiwa:spring_trap/boing_4"
+		]
+	},
+	"springtrap.boing.5": {
+		"sounds": [
+			"noiwa:spring_trap/boing_5"
+		]
+	},
+	"note.taiko": {
+		"sounds": [
+			"noiwa:taiko"
+		]
+	},
+	"note.kalimba": {
+		"sounds": [
+			"noiwa:kalimba"
+		]
+	},
+	"note.koto": {
+		"sounds": [
+			"noiwa:koto"
+		]
+	},
+	"echo.0": {
+		"sounds": [
+			"noiwa:echo_0"
+		]
+	},
+	"echo.1": {
+		"sounds": [
+			"noiwa:echo_1"
+		]
+	},
+	"echo.2": {
+		"sounds": [
+			"noiwa:echo_2"
+		]
+	},
+	"mechanical.rattle.1": {
+		"sounds": [
+			"noiwa:mecha_rattle_1"
+		]
+	},
+	"weapon.reload": {
+		"sounds": [
+			"noiwa:reload"
+		]
+	},
+	"weapon.trigger.1": {
+		"sounds": [
+			"noiwa:trigger_1"
+		]
+	},
+	"weapon.trigger.2": {
+		"sounds": [
+			"noiwa:trigger_2"
+		]
+	},
+	"weapon.trigger.3": {
+		"sounds": [
+			"noiwa:trigger_3"
+		]
+	},
+	"launcher.shoot": {
+		"sounds": [
+			"noiwa:launcher"
+		]
+	},
+	"stone.crack.1": {
+		"sounds": [
+			"noiwa:crack_1"
+		]
+	},
+	"stone.crack.2": {
+		"sounds": [
+			"noiwa:crack_2"
+		]
+	},
+	"stone.crack.3": {
+		"sounds": [
+			"noiwa:crack_3"
+		]
+	},
+	"error": {
+		"sounds": [
+			"noiwa:error"
+		]
+	},
+	"coin.pickup.1": {
+		"sounds": [
+			"noiwa:sfx_coins_1"
+		]
+	},
+	"coin.pickup.2": {
+		"sounds": [
+			"noiwa:sfx_coins_2"
+		]
+	},
+	"coin.pickup.3": {
+		"sounds": [
+			"noiwa:sfx_coins_3"
+		]
+	},
+	"coin.pickup.4": {
+		"sounds": [
+			"noiwa:sfx_coins_4"
+		]
+	},
+	"coin.pickup.5": {
+		"sounds": [
+			"noiwa:sfx_coins_5"
+		]
+	},
+	"coin.pickup.6": {
+		"sounds": [
+			"noiwa:sfx_coins_6"
+		]
+	},
+	"coin.pickup.7": {
+		"sounds": [
+			"noiwa:sfx_coins_7"
+		]
+	},
+	"coin.pickup.8": {
+		"sounds": [
+			"noiwa:sfx_coins_8"
+		]
+	},
+	"coin.pickup.9": {
+		"sounds": [
+			"noiwa:sfx_coins_9"
+		]
+	}
+}
+

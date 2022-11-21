@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "noiwa:block/spike_trap_top",
+		"down": "noiwa:block/spike_trap_bottom",
+		"up": "noiwa:block/spike_trap_top",
+		"north": "noiwa:block/spike_trap_side",
+		"south": "noiwa:block/spike_trap_side",
+		"west": "noiwa:block/spike_trap_side",
+		"east": "noiwa:block/spike_trap_side"
+	}
+}

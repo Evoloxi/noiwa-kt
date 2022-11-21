@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "noiwa:block/spring_trap_top_extended",
+		"down": "noiwa:block/spring_trap_bottom",
+		"up": "noiwa:block/spring_trap_top_extended",
+		"north": "noiwa:block/spring_trap_side",
+		"south": "noiwa:block/spring_trap_side",
+		"west": "noiwa:block/spring_trap_side",
+		"east": "noiwa:block/spring_trap_side"
+	}
+}

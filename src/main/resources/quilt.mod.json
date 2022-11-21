@@ -5,7 +5,7 @@
 		"id": "${id}",
 		"version": "${version}",
 		"metadata": {
-			"name": "Mod Name",
+			"name": "Noiwa",
 			"description": "A short description of your mod.",
 			"contributors": {
 				"Me!": "Owner"
@@ -19,7 +19,9 @@
 		},
 		"intermediate_mappings": "net.fabricmc:intermediary",
 		"entrypoints": {
-			"init": "dev.cursedmc.example_mod.ExampleMod"
+			"init": "dev.evoloxi.noiwa.Core",
+			"client_init": "dev.evoloxi.noiwa.client.ClientCore",
+			"cardinal-components": "dev.evoloxi.noiwa.foundation.component.CustomComponents"
 		},
 		"depends": [
 			{
@@ -33,8 +35,29 @@
 			{
 				"id": "minecraft",
 				"versions": ">=1.19"
+			},
+			{
+				"id": "satin",
+				"versions": ">=1.6.0-"
+			},
+			{
+				"id": "cardinal-components-base",
+				"versions": ">=5.0.0"
+			},
+			{
+				"id": "geckolib3",
+				"versions": ">=3.1.30"
+			},
+			{
+				"id": "qkl",
+				"versions": ">=0.1.2-"
 			}
 		]
 	},
-	"mixin": "example_mod.mixins.json"
+	"cardinal-components": [
+		"noiwa:stats",
+		"noiwa:coins",
+		"noiwa:static"
+	],
+	"mixin": "evoloxi.mixins.json"
 }

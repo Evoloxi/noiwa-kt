@@ -1,0 +1,15 @@
+{
+	"variants": {
+		"extended=false,facing=north": { "model": "noiwa:block/spring_trap_base" , "x": 90 , "y": 0 },
+		"extended=false,facing=south": { "model": "noiwa:block/spring_trap_base", "y": 180, "x": 90 },
+		"extended=false,facing=west": { "model": "noiwa:block/spring_trap_base", "y": 270, "x": 90 },
+		"extended=false,facing=east": { "model": "noiwa:block/spring_trap_base", "y": 90, "x": 90 },
+		"extended=false,facing=up": { "model": "noiwa:block/spring_trap_base", "y": 90 },
+		"extended=true,facing=down": { "model": "noiwa:block/spring_trap_base_extended", "x": 180 },
+		"extended=true,facing=north": { "model": "noiwa:block/spring_trap_base_extended" , "x": 90 , "y": 0 },
+		"extended=true,facing=south": { "model": "noiwa:block/spring_trap_base_extended", "y": 180, "x": 90 },
+		"extended=true,facing=west": { "model": "noiwa:block/spring_trap_base_extended", "y": 270, "x": 90 },
+		"extended=true,facing=east": { "model": "noiwa:block/spring_trap_base_extended", "y": 90, "x": 90 },
+		"extended=true,facing=up": { "model": "noiwa:block/spring_trap_base_extended", "y": 90 }
+	}
+}

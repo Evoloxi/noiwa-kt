@@ -1,0 +1,35 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"fire": {
+			"animation_length": 0.41667,
+			"override_previous_animation": true,
+			"bones": {
+				"bone2": {
+					"rotation": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"0.0417": {
+							"vector": [-5, 0, 0],
+							"easing": "easeInElastic"
+						},
+						"0.4167": {
+							"vector": [0, 0, 0],
+							"easing": "easeOutBack"
+						}
+					},
+					"position": {
+						"vector": [0, 0, 0]
+					}
+				}
+			},
+			"particle_effects": {
+				"0.0417": {
+					"effect": "minecraft:smoke"
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

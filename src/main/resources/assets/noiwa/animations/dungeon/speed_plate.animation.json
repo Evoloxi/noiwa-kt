@@ -1,0 +1,53 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.speed_plate.activate": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 1,
+			"override_previous_animation": true,
+			"bones": {
+				"plate": {
+					"position": {
+						"0.0": {
+							"vector": [0, 0, 0]
+						},
+						"1.0": {
+							"vector": [0, -4, 0],
+							"easing": "linear"
+						}
+					}
+				}
+			}
+		},
+		"animation.speed_plate.idle": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"plate": {
+					"position": {
+						"vector": [0, -4, 0]
+					}
+				}
+			}
+		},
+		"animation.speed_plate.deactivate": {
+			"loop": "hold_on_last_frame",
+			"animation_length": 1,
+			"override_previous_animation": true,
+			"bones": {
+				"plate": {
+					"position": {
+						"0.0": {
+							"vector": [0, -4, 0]
+						},
+						"1.0": {
+							"vector": [0, 0, 0],
+							"easing": "easeInOutSine"
+						}
+					}
+				}
+			}
+		}
+	},
+	"geckolib_format_version": 2
+}

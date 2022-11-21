@@ -1,0 +1,148 @@
+{
+	"providers": [
+		{
+			"type": "bitmap",
+			"file": "noiwa:gui/pixel_split.png",
+			"ascent": 0,
+			"height": 0,
+			"chars": [
+				"‌"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:gui/pixel_nosplit.png",
+			"ascent": -17,
+			"height": -3,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/star.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uD83E\uDDEB"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/empty_star.png",
+			"ascent": 6,
+			"height": 6,
+			"chars": [
+				"\uD83D\uDCAA"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/common.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꐝ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/uncommon.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꐓ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/rare.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꐕ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/epic.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꐔ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/legendary.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꐑ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/omega.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꐙ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/special.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"ꐖ"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/death_skull.png",
+			"ascent": 9,
+			"height": 9,
+			"chars": [
+				"💀"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/error_red.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"🧻"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/error_green.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+				"🧼"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/numbers.png",
+			"ascent": 6,
+			"height": 7,
+			"chars": [
+				""
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "noiwa:tooltip/number_shorteners.png",
+			"ascent": 6,
+			"height": 7,
+			"chars": [
+				""
+			]
+		}
+	]
+}

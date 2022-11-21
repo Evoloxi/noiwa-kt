@@ -1,0 +1,21 @@
+{
+	"item.noiwa.brain_wood": "Timbered Brain",
+	"item.noiwa.brain_gold": "Shiny Brain",
+	"item.noiwa.brain_moss": "Mossy Brain",
+	"item.noiwa.launcher": "Rocket Stoner",
+	"item.noiwa.stoner_ammo": "Ogram Shell",
+	"item.noiwa.rifle": "Rifle",
+	
+	"attribute.generic.damage": "Damage",
+	"attribute.generic.strength": "Strength",
+	"attribute.generic.crit_chance": "Crit Chance",
+	"attribute.generic.crit_damage": "Crit Damage",
+	"attribute.generic.echo": "Echo",
+	"attribute.generic.mana": "Mana",
+	"attribute.generic.health": "Health",
+	"attribute.generic.defense": "Defense",
+	"attribute.generic.speed": "Speed",
+	"attribute.generic.attack_speed": "Attack Speed",
+	"attribute.generic.cooldown": "Cooldown"
+	
+}

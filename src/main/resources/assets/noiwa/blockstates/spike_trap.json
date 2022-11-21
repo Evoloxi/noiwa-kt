@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"extended=false": {
+			"model": "noiwa:block/spike_base"
+		},
+		"extended=true": {
+			"model": "noiwa:block/spike_base"
+		}
+	}
+}
